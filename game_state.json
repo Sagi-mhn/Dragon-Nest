@@ -1,0 +1,10 @@
+{
+  "coins": 400,
+  "calices": 8,
+  "dragons": 0,
+  "eggs": 0,
+  "dragonNests": 0,
+  "completedLevels": [],
+  "currentLevel": 1,
+  "lastCaliceUpdate": 0
+}
